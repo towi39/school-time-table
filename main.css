@@ -1,0 +1,22 @@
+body {
+    background-color:black;
+    width: 99%;
+}
+.judul {
+    text-align: center;
+}
+table {
+    width: 100%;
+    margin-right: 10px;
+    text-align: center;
+    border-color: blueviolet;
+    border-width: 10px;
+    color: crimson;
+    border-radius: 5px;
+    
+}
+h1 {
+    text-align: center;
+    font-family :'Allerta Stencil', sans-serif;
+    color : white;
+}
