@@ -1,7 +1,6 @@
 body {
     background-color:black;
     width: 99%;
-    font-family :'Allerta Stencil', sans-serif;
     color : white;
 }
 .judul {
@@ -19,5 +18,4 @@ table {
 }
 h1 {
     text-align: center;
-
 }
